@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>StanzaApi.IbanValidator</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Stanza</Authors>
+    <Description>Official zero-dependency, high-speed C# .NET client for Global IBAN, BIC/SWIFT & Bank Routing Validator API</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://stanzaapi.com/tools/iban-validator</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/stanzaapi/iban-validator-csharp</RepositoryUrl>
+    <PackageTags>iban;bic-swift;sepa;iso-13616;mod-97;bban;bank-routing;fintech;payment-validation</PackageTags>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+  </PropertyGroup>
+</Project>
